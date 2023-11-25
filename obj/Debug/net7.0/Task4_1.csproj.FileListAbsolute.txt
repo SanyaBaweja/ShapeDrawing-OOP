@@ -1,0 +1,14 @@
+/Users/guest1/Desktop/oop/Task4.1/obj/Debug/net7.0/Task4_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guest1/Desktop/oop/Task4.1/obj/Debug/net7.0/Task4_1.AssemblyInfoInputs.cache
+/Users/guest1/Desktop/oop/Task4.1/obj/Debug/net7.0/Task4_1.AssemblyInfo.cs
+/Users/guest1/Desktop/oop/Task4.1/obj/Debug/net7.0/Task4_1.csproj.CoreCompileInputs.cache
+/Users/guest1/Desktop/oop/Task4.1/bin/Debug/net7.0/Task4_1
+/Users/guest1/Desktop/oop/Task4.1/bin/Debug/net7.0/Task4_1.deps.json
+/Users/guest1/Desktop/oop/Task4.1/bin/Debug/net7.0/Task4_1.runtimeconfig.json
+/Users/guest1/Desktop/oop/Task4.1/bin/Debug/net7.0/Task4_1.dll
+/Users/guest1/Desktop/oop/Task4.1/bin/Debug/net7.0/Task4_1.pdb
+/Users/guest1/Desktop/oop/Task4.1/obj/Debug/net7.0/Task4_1.dll
+/Users/guest1/Desktop/oop/Task4.1/obj/Debug/net7.0/refint/Task4_1.dll
+/Users/guest1/Desktop/oop/Task4.1/obj/Debug/net7.0/Task4_1.pdb
+/Users/guest1/Desktop/oop/Task4.1/obj/Debug/net7.0/Task4_1.genruntimeconfig.cache
+/Users/guest1/Desktop/oop/Task4.1/obj/Debug/net7.0/ref/Task4_1.dll
